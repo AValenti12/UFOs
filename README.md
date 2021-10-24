@@ -29,12 +29,12 @@ And then use one, some, or all of the search criteria to filter any specific inq
 
 # Summary
 
-# Drawback
+Drawback
  - One drawback worth noting is that the site is case sensitive. So if the user does not type the city, state, etc in exactly as the data is, the search result will not be inclusive of all the data that might be applicable. For example, from the previous search of "bonita" resulted in 1 entry. When "Bonita" is searched, there are zero results. I would probably recommend the case sensitivity be adjusted.
   
 ![Bonitanoresults](https://user-images.githubusercontent.com/88061345/138604124-bf2b9ea9-0c55-4063-9fbc-9eab1d1b9134.PNG)
 
- # Recommendations
+ Recommendations
  -  In addition to the previously mentioned drawback/adjustment, I would also suggest a filter to sort through the durations. This would allow users to filter by experiences under one minute, 10 minutes, over 30, etc. Another recommendation that might be helpful would be to add a counter when a search result is completed. So at quick glance a user can see how many sightings there were based off that search criteria. 
 
   
